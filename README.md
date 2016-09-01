@@ -8,4 +8,6 @@ Example to use Stevia in Autolayout
 4. Look for InjectionPlugin & Install
 5. Restart Xcode & run the project
 
+Official documentation: https://github.com/s4cha/Stevia
+
 ![Simulator Result](http://content.screencast.com/users/reeve95545/folders/Jing/media/de232664-4164-4a39-ae96-044e5496777a/00000015.png)
